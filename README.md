@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/OneDuckyBoy](https://github.com/OneDuckyBoy)
 
-- 💬 Feel free to ask me about **Java and C#**
+- 💬 Feel free to ask me about **Agentic AI, Crew AI, Pyton, Java and C#**
 
 - 📫 How to reach me **stilianmatev@gmail.com**
 
