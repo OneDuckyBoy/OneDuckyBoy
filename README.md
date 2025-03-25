@@ -1,7 +1,7 @@
 <h1 align="center">Hi There, I'm Stilian Matev</h1>
 <h3 align="center">I call myself One Ducky Boy</h3>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Multi Agent systems and Crew AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OneDuckyBoy](https://github.com/OneDuckyBoy)
 
