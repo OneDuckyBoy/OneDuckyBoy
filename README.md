@@ -11,6 +11,9 @@
 
 - ⚡ Fun fact **Ducks have regional accents.(Quack :) )**
 
+<h2>My top languages</h2>
+<a href="https://github.com/OneDuckyBoy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneDuckyBoy&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/stilian matev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stilian matev" height="30" width="40" /></a>
