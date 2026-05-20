@@ -1,7 +1,7 @@
 <h1 align="center">Hi There, I'm Stilian Matev</h1>
 <h3 align="center">I call myself One Ducky Boy</h3>
 
-- 🌱 I’m currently learning **Multi Agent systems and Crew AI**
+- 🌱 I’m currently learning **C++ at the Faculty of Mathematics and Informatics, Sofia University**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OneDuckyBoy](https://github.com/OneDuckyBoy)
 
@@ -11,8 +11,6 @@
 
 - ⚡ Fun fact **Ducks have regional accents.(Quack :) )**
 
-<h2>My top languages</h2>
-<a href="https://github.com/OneDuckyBoy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneDuckyBoy&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
